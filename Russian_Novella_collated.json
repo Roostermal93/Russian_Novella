@@ -1,0 +1,63 @@
+{
+    "count": 8,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "d178a217-a1e0-408b-aa1b-f610b52ac1f1",
+            "collectionId": "Russian",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Russian/Russian_Novella/d178a217-a1e0-408b-aa1b-f610b52ac1f1/d178a217-a1e0-408b-aa1b-f610b52ac1f1_ru_Female.mp4"
+        },
+        {
+            "id": "81c4dd6f-cc1d-4791-b6cf-36f81145ed16",
+            "collectionId": "Russian",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Russian/Russian_Novella/81c4dd6f-cc1d-4791-b6cf-36f81145ed16/81c4dd6f-cc1d-4791-b6cf-36f81145ed16_ru_Female.mp4"
+        },
+        {
+            "id": "4488abab-5d5e-4476-82cc-920a6639208a",
+            "collectionId": "Russian",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Russian/Russian_Novella/4488abab-5d5e-4476-82cc-920a6639208a/4488abab-5d5e-4476-82cc-920a6639208a_ru_Male.mp4"
+        },
+        {
+            "id": "78a00e02-90d3-49ed-a961-27a5b2511a1d",
+            "collectionId": "Russian",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Russian/Russian_Novella/78a00e02-90d3-49ed-a961-27a5b2511a1d/78a00e02-90d3-49ed-a961-27a5b2511a1d_ru_Female.mp4"
+        },
+        {
+            "id": "029c658c-800f-4ee6-bbc2-3942a33b6aaa",
+            "collectionId": "Russian",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Russian/Russian_Novella/029c658c-800f-4ee6-bbc2-3942a33b6aaa/029c658c-800f-4ee6-bbc2-3942a33b6aaa_ru_Female.mp4"
+        },
+        {
+            "id": "c0305903-1f45-4072-a8e6-6a4cb9724823",
+            "collectionId": "Russian",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Russian/Russian_Novella/c0305903-1f45-4072-a8e6-6a4cb9724823/c0305903-1f45-4072-a8e6-6a4cb9724823_ru_Female.mp4"
+        },
+        {
+            "id": "6e4db55a-9059-4622-b25f-86ab5c49a7bc",
+            "collectionId": "Russian",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Russian/Russian_Novella/6e4db55a-9059-4622-b25f-86ab5c49a7bc/6e4db55a-9059-4622-b25f-86ab5c49a7bc_ru_Male.mp4"
+        },
+        {
+            "id": "19a93efe-3d4e-49fa-95b2-569e66078b31",
+            "collectionId": "Russian",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Russian/Russian_Novella/19a93efe-3d4e-49fa-95b2-569e66078b31/19a93efe-3d4e-49fa-95b2-569e66078b31_ru_Female.mp4"
+        }
+    ]
+}
